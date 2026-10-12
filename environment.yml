@@ -21,3 +21,4 @@ dependencies:
   - shap
   - polars
   - pyarrow
+  - lightgbm
